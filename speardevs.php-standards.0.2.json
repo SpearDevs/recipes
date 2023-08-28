@@ -4,7 +4,6 @@
             "manifest": {
                 "copy-from-package": {
                     "ecs.php": "ecs.php",
-                    "phpstan.dist.neon": "phpstan.dist.neon",
                     "rector.php": "rector.php"
                 }
             },
