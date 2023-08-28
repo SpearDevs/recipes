@@ -1,0 +1,12 @@
+{
+    "manifests": {
+        "speardevs/php-standards": {
+            "manifest": {
+                "copy-from-recipe": {
+                    "phpstan.dist.neon": "phpstan.dist.neon"
+                }
+            },
+            "ref": "abe46d76030430d465a4bb4e2e4317f32fb072b3"
+        }
+    }
+}
