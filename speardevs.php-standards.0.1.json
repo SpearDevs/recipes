@@ -2,24 +2,13 @@
     "manifests": {
         "speardevs/php-standards": {
             "manifest": {
-                "copy-from-recipe": {
-                    "phpstan.dist.neon": "phpstan.dist.neon"
+                "copy-from-package": {
+                    "ecs.php": "ecs.php",
+                    "phpstan.dist.neon": "phpstan.dist.neon",
+                    "rector.php": "rector.php"
                 }
             },
-            "files": {
-                "phpstan.dist.neon": {
-                    "contents": [
-                        "parameters:",
-                        "   level: 6",
-                        "   paths:",
-                        "       - src",
-                        "       - tests",
-                        ""
-                    ],
-                    "executable": false
-                }
-            },
-            "ref": "e027c88fa44cca338715abea29c5358055d9af8c"
+            "ref": "809ff0e3695e7fdf5294d76b273987aca8ea1fca"
         }
     }
 }
