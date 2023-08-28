@@ -1,14 +1,14 @@
 {
     "recipes": {
         "speardevs/php-standards": [
-            "0.1"
+            "0.2"
         ]
     },
     "branch": "master",
     "is_contrib": true,
     "_links": {
-        "repository": "github.com/speardevs/php-standards-recipe",
-        "origin_template": "{package}:{version}@github.com/speardevs/php-standards-recipe:master",
-        "recipe_template": "https://api.github.com/repos/speardevs/php-standards-recipe/contents/{package_dotted}.{version}.json"
+        "repository": "github.com/speardevs/recipes",
+        "origin_template": "{package}:{version}@github.com/speardevs/recipes:master",
+        "recipe_template": "https://api.github.com/repos/speardevs/recipes/contents/{package_dotted}.{version}.json"
     }
 }
