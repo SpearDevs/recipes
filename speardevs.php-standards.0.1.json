@@ -6,7 +6,20 @@
                     "phpstan.dist.neon": "phpstan.dist.neon"
                 }
             },
-            "ref": "abe46d76030430d465a4bb4e2e4317f32fb072b3"
+            "files": {
+                "phpstan.dist.neon": {
+                    "contents": [
+                        "parameters:",
+                        "   level: 6",
+                        "   paths:",
+                        "       - src",
+                        "       - tests",
+                        ""
+                    ],
+                    "executable": false
+                }
+            },
+            "ref": "e027c88fa44cca338715abea29c5358055d9af8c"
         }
     }
 }
