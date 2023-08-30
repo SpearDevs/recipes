@@ -3,11 +3,12 @@
         "speardevs/php-standards": {
             "manifest": {
                 "copy-from-package": {
+                    ".github/": ".github/",
                     "ecs.php": "ecs.php",
                     "rector.php": "rector.php"
                 }
             },
-            "ref": "bd23a6976946fa457c464e9c2604940af817238d"
+            "ref": "9b023e422f5c749752fc600d6bae3a0ed74406d6"
         }
     }
 }
