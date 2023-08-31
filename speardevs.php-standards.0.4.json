@@ -5,10 +5,11 @@
                 "copy-from-package": {
                     ".github/": ".github/",
                     "ecs.php": "ecs.php",
+                    "phpstan.neon": "phpstan.neon",
                     "rector.php": "rector.php"
                 }
             },
-            "ref": "b622fd0f20f66ef783f0a36cebabb1c7254462f9"
+            "ref": "cac2c7611bd54a130da9fffdeaa5d7ad73dabd85"
         }
     }
 }
