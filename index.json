@@ -1,7 +1,7 @@
 {
     "recipes": {
         "speardevs/php-standards": [
-            "0.3"
+            "0.4"
         ]
     },
     "branch": "master",
