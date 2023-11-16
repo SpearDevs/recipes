@@ -3,7 +3,7 @@
         "speardevs/php-standards": [
             "0.5"
         ],
-        "speardevs/shopware-coding-standards": [
+        "speardevs/shopware-php-standards": [
             "0.1"
         ]
     },
