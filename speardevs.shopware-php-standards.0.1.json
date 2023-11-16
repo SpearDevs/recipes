@@ -1,0 +1,14 @@
+{
+  "manifests": {
+    "speardevs/shopware-php-standards": {
+      "manifest": {
+        "copy-from-package": {
+          ".github/": ".github/",
+          "ecs.php": "ecs.php",
+          "psalm.xml": "psalm.xml"
+        }
+      },
+      "ref": "8b37f10d24aef4b11c0336d78ac2d92e164cdf7a"
+    }
+  }
+}

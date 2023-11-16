@@ -2,6 +2,9 @@
     "recipes": {
         "speardevs/php-standards": [
             "0.5"
+        ],
+        "speardevs/shopware-coding-standards": [
+            "0.1"
         ]
     },
     "branch": "master",
