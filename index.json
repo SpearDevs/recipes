@@ -4,7 +4,7 @@
             "0.5"
         ],
         "speardevs/shopware-php-standards": [
-            "0.1"
+            "0.1.2"
         ]
     },
     "branch": "master",
