@@ -1,0 +1,15 @@
+{
+    "manifests": {
+        "speardevs/php-standards": {
+            "manifest": {
+                "copy-from-package": {
+                    ".github/": ".github/",
+                    "ecs.php": "ecs.php",
+                    "phpstan.neon": "phpstan.neon",
+                    "rector.php": "rector.php"
+                }
+            },
+            "ref": "a8ca5a5fa9d7f5f5a05e9f5e7021734acf2f294e"
+        }
+    }
+}

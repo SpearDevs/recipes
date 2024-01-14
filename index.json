@@ -1,10 +1,10 @@
 {
     "recipes": {
         "speardevs/php-standards": [
-            "0.5"
+            "0.5.0"
         ],
         "speardevs/shopware-php-standards": [
-            "0.1.2"
+            "0.2.0"
         ]
     },
     "branch": "master",
